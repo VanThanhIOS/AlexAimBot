@@ -9,7 +9,7 @@ local Player = game.Players.LocalPlayer
 })
 
 function MakeScriptHub()
-         loadstring(game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/FixLagAlexSibikidi/refs/heads/main/alexmain.lua"))()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/FixLagAlexSibikidi/refs/heads/main/main.lua.txt"))()
 end
 
 OrionLib:MakeNotification({
@@ -77,9 +77,9 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
-	Name = "Copy Kênh 🗿",
+	Name = "Lấy Key Free Tại Đây!",
 	Callback = function()
-      		setclipboard("YTB: @thanhdzso1 TikTok: @vanthanhisme_ FB: @vanthanhisme")
+      		setclipboard("FreeKey_ALEXFIGLAG_ONKEY100YEAR")
   	end    
 }) 
     
