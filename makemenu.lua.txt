@@ -13,14 +13,14 @@ function MakeScriptHub()
 end
 
 OrionLib:MakeNotification({
-	Name = "YTB: @thanhdzso1",
-	Content = "TikTok: @vanthanhisme_"..Player.Name..".",
+	Name = "Văn Thành IOS",
+	Content = "Name"..Player.Name..".",
 	Image = "rbxassetid://72361485477575",
 	Time = 5
 })
 
 getgenv().Key = "FreeKey_ALEXFIGLAG_ONKEY100YEAR"
-getgenv().KeyInput = "string"
+getgenv().Key = "string"
 
 local Tab = Window:MakeTab({
 	Name = "MENU",
